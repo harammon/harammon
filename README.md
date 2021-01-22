@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
   I am **Haram Lee**. My major is **Library and Information Science:books:**, and **Computer Science:computer:** since 2014. <br/>
  I am especially interested in **Data analysis** (~~now, I am a beginner~~ &#128579;). <br/>
  Thank you for comming!!
